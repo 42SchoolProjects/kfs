@@ -4,5 +4,6 @@
 #include "cursor.h"
 #include "types.h"
 #include "song.h"
+#include "keyboard.h"
 
 void writek(unsigned int colour, const char *string, int len);
